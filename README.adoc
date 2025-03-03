@@ -1,22 +1,21 @@
-= CalConnect Standard: (TITLE)
+= CalConnect Standard: Resources for Developing Calendar Applications
 
-This work item belongs to CalConnect (TCs).
+This work item belongs to CalConnect CALENDAR TC.
 
 image:https://github.com/CalConnect/cc-calendar-dev-resources/workflows/generate/badge.svg["Build Status", link="https://github.com/CalConnect/cc-calendar-dev-resources/actions?workflow=generate"]
 
 This document is available in its rendered forms here:
 
-* https://calconnect.github.io/cc-calendar-dev-resources/[CalConnect: Calendaring and scheduling -- Vocabulary (HTML)]
+* https://calconnect.github.io/cc-calendar-dev-resources/[CalConnect: Resources for Developing Calendar Applications (HTML)]
 
 == General
 
-This document specifies the (TITLE).
+This document lists specifications and resources available to developers of calendaring and scheduling applications.
 
 The document is published as the following:
 
-* CalConnect CC (DOCNUMBER)
-* ISO (DOCNUMBER)
-* IETF draft-cc-calendar-dev-resources
+* CalConnect CC 51019
+* IETF draft-murchison-calendar-dev-resources
 
 
 == Fetching the document
@@ -62,17 +61,6 @@ The generated documents are accessible under `_site/`.
 metanorma site generate --agree-to-terms
 open _site/index.html
 ----
-
-
-// == IETF: Checking against idnits
-
-// https://tools.ietf.org/tools/idnits/[idnits] is the RFC checking tool prior to
-// submissions.
-
-// [source,sh]
-// ----
-// idnits draft-calconnect-vobject-vformat.nits
-// ----
 
 
 == License

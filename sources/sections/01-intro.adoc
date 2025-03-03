@@ -1,0 +1,7 @@
+== Introduction
+
+This memo lists standards and resources available to developers of calendaring and
+scheduling applications.
+
+This list SHOULD NOT be considered exhaustive, but SHOULD be sufficient as a starting
+point for developers new to calendaring and scheduling.

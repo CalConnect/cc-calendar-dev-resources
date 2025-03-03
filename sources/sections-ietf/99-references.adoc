@@ -1,0 +1,27 @@
+== References
+
+[bibliography]
+=== Normative References
+
+* [[[RFC4791,IETF RFC 4791]]]
+* [[[RFC4918,IETF RFC 4918]]]
+* [[[RFC5545,IETF RFC 5545]]]
+* [[[RFC5546,IETF RFC 5546]]]
+* [[[RFC6047,IETF RFC 6047]]]
+* [[[RFC6321,IETF RFC 6321]]]
+* [[[RFC6578,IETF RFC 6578]]]
+* [[[RFC6638,IETF RFC 6638]]]
+* [[[RFC6764,IETF RFC 6764]]]
+* [[[RFC6868,IETF RFC 6868]]]
+* [[[RFC7230,IETF RFC 7230]]]
+* [[[RFC7529,IETF RFC 7529]]]
+* [[[RFC7265,IETF RFC 7265]]]
+* [[[RFC7809,IETF RFC 7809]]]
+* [[[RFC7953,IETF RFC 7953]]]
+* [[[RFC7986,IETF RFC 7986]]]
+* [[[RFC8144,IETF RFC 8144]]]
+
+[bibliography]
+=== Informative References
+
+* [[[DEVGUIDE,CalConnect Developer's Guide]]], CalConnect Developer's Guide, https://devguide.calconnect.org

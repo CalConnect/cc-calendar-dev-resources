@@ -1,0 +1,6 @@
+== Other Resources
+
+The following documents outline guidelines and best practices for developing
+interoperable calendar and scheduling applications.
+
+* <<DEVGUIDE>>

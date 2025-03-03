@@ -1,0 +1,28 @@
+[appendix]
+== metanorma-extension
+
+=== document history
+
+[EDITOR]
+====
+To be removed by RFC Editor before
+publication
+====
+
+[source,yaml]
+----
+- date:
+  - type: updated
+  edition: calext-00
+  amend:
+    - description: |
+        Added Murchison as editor.
+
+        Updated HTTP references to RFC7230 and RFC7231.
+
+        Updated Prefer header field references to RFC7240.
+
+        Added Implementation Status section.
+
+        Minor editorial changes.
+----

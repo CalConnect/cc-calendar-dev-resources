@@ -2,10 +2,10 @@
 metanorma:
   source:
     files:
-      - sources/cc-51008/document.adoc
-      - sources/ietf/document.adoc
-      - sources/iso-51008/document.adoc
+      - sources/cc-51019.adoc
+      - sources/draft-murchison-calendar-dev-resources.adoc
 
   collection:
-    name: vObject and vFormat
+    name: Calendar Developer Resources
     organization: CalConnect
+
