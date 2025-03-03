@@ -10,7 +10,7 @@ This document is available in its rendered forms here:
 
 == General
 
-This document lists specifications and resources available to developers of calendaring and scheduling applications.
+This document specifies the Resources for Developing Calendar Applications.
 
 The document is published as the following:
 
