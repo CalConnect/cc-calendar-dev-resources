@@ -1,0 +1,5 @@
+[acknowledgments]
+== Acknowledgments
+
+This document came about via discussions at CalConnect - the Calendaring and
+Scheduling Consortium. Thanks in particular to Mike Douglass.

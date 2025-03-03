@@ -1,0 +1,43 @@
+= Resources for Developing Calendar Applications
+:doctype: internet-draft
+:name: draft-murchison-calendar-dev-resources-00
+:abbrev: Calendar Dev Resources
+:status: informational
+:ipr: trust200902
+:area: Applications and Real-Time
+:intended-series: full-standard
+:workgroup: Calendaring Extensions
+:keywords: iCalendar, iTIP, CalDAV
+:published-date: 2018-02-03
+:fullname: Kenneth Murchison
+:lastname: Murchison
+:forename_initials: K.
+:affiliation: FastMail US LLC
+:address: 1315 Walnut Street, Suite 320 + \
+Philadelphia, PA 19107 + \
+USA
+:address_2: Level 1, 91 William Street + \
+Melbourne, VIC 3000 + \
+Australia
+:email: murch@fastmail.com
+:contributor-uri: http://www.fastmail.com/
+:mn-document-class: ietf
+:mn-output-extensions: xml,rfc,txt,html,rxl
+:local-cache-only:
+:data-uri-image:
+
+include::sections/00-abstract.adoc[]
+
+include::sections/01-intro.adoc[]
+
+include::sections/04-standards.adoc[]
+
+include::sections/05-other-resources.adoc[]
+
+include::sections/06-security.adoc[]
+
+include::sections/99-acknowledgements.adoc[]
+
+include::sections-ietf/99-references.adoc[]
+
+include::sections-ietf/99-doc-history.adoc[]

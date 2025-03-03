@@ -1,0 +1,38 @@
+= Resources for Developing Calendar Applications
+:docnumber: 51019
+:copyright-year: 2018
+:language: en
+:doctype: standard
+:edition: 1
+:status: working-draft
+:revdate: 2018-02-03
+:published-date: 2018-02-03
+:technical-committee: CALENDAR
+:fullname: Kenneth Murchison
+:surname: Murchison
+:givenname: Kenneth
+:affiliation: FastMail US LLC
+:mn-document-class: cc
+:mn-output-extensions: xml,html,pdf,rxl
+:local-cache-only:
+:data-uri-image:
+
+include::sections/00-abstract.adoc[]
+
+include::sections/01-intro.adoc[]
+
+include::sections/01-scope.adoc[]
+
+include::sections/02-normative-references.adoc[]
+
+include::sections/03-terms.adoc[]
+
+include::sections/04-standards.adoc[]
+
+include::sections/05-other-resources.adoc[]
+
+include::sections/06-security.adoc[]
+
+include::sections/99-acknowledgements.adoc[]
+
+include::sections/99-bibliography.adoc[]

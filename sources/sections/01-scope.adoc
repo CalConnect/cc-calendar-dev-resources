@@ -1,0 +1,12 @@
+== Scope
+
+//This document provides a comprehensive list of specifications and resources for
+//developers working on calendaring and scheduling applications. It covers:
+
+//* Calendar data formats including iCalendar and its variants
+//* Calendar scheduling protocols
+//* CalDAV protocol and its extensions
+//* Additional resources and best practices
+
+//The document aims to serve as a reference guide for both new and experienced
+//developers in the calendaring and scheduling domain.

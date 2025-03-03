@@ -1,0 +1,4 @@
+[bibliography]
+== Bibliography
+
+* [[[DEVGUIDE,CalConnect Developer's Guide]]], CalConnect Developer's Guide, https://devguide.calconnect.org

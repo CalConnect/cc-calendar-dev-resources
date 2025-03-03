@@ -1,0 +1,43 @@
+== The Standards
+
+The documents in the following sections define the standards for calendaring and
+scheduling data formats and protocols.
+
+=== Calendar Data Formats
+
+==== iCalendar
+
+* <<RFC5545>> - Internet Calendaring and Scheduling Core Object Specification
+(iCalendar)
+* <<RFC6868>> - Parameter Value Encoding in iCalendar and vCard
+* <<RFC7529>> - Non-Gregorian Recurrence Rules in iCalendar
+* <<RFC7953>> - Calendar Availability
+* <<RFC7986>> - New Properties for iCalendar
+
+==== Other Formats
+
+* <<RFC6321>> - The XML Format for iCalendar
+* <<RFC7265>> - The JSON Format for iCalendar
+
+=== Calendar Scheduling
+
+* <<RFC5546>> - iCalendar Transport-Independent Interoperability Protocol
+* <<RFC6047>> - iCalendar Message-Based Interoperability Protocol
+* <<RFC7953>> - Calendar Availability
+
+=== CalDAV: A Calendar Access Protocol
+
+==== Core Standards
+
+* <<RFC7230>> - Hypertext Transfer Protocol (HTTP/1.1)
+* <<RFC4918>> - HTTP Extensions for Web Distributed Authoring and Versioning (WebDAV)
+* <<RFC4791>> - Calendaring Extensions to WebDAV (CalDAV)
+* <<RFC6638>> - Scheduling Extensions to CalDAV
+
+==== Extensions and Related Standards
+
+* <<RFC6764>> - Locating Services for CalDAV and CardDAV
+* <<RFC6578>> - Collection Synchronization for WebDAV
+* <<RFC7953>> - Calendar Availability
+* <<RFC7809>> - CalDAV: Time Zones by Reference
+* <<RFC8144>> - Use of the Prefer Header Field in WebDAV
