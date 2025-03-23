@@ -1,5 +1,5 @@
 [abstract]
 == Abstract
 
-This memo lists specifications and resources available to developers of calendaring
-and scheduling applications.
+This memo lists specifications and resources available to developers of
+calendaring and scheduling applications.

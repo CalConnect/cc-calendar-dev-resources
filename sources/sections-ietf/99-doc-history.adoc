@@ -5,8 +5,7 @@
 
 [EDITOR]
 ====
-To be removed by RFC Editor before
-publication
+To be removed by RFC Editor before publication
 ====
 
 [source,yaml]
