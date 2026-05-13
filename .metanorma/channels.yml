@@ -1,0 +1,5 @@
+# .metanorma/channels.yml — cc-calendar-dev-resources
+
+channels:
+  - name: public/standards
+    description: "CalConnect documents from cc-calendar-dev-resources"

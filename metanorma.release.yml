@@ -1,3 +1,5 @@
+# metanorma.release.yml — cc-calendar-dev-resources
+
 documents:
-  - source: sources/cc-51019.adoc
-  - source: sources/draft-murchison-calendar-dev-resources.adoc
+  - pattern: "cc-*"
+    channels: [public/standards]
